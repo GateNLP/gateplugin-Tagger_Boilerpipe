@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>tagger-boilerpipe</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>Tagger: Boilerpipe</name>
+	<description>GATE wrapper around the BoilerPipe boiler plate detection library</description>
 
 	<licenses>
 		<license>
